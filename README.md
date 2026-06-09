@@ -1,1 +1,1 @@
-Este es un trabajo practico de solo HTML del Proyecto Odion, Utilizando listas ornedanas y no ordenadas, enlaces de navegacion entre mis paginas y la utilizacion de titulos y parrafos
+Este es un trabajo practico de solo HTML del Proyecto Odion, Utilizando listas ornedanas y no ordenadas, enlaces de navegacion entre mis paginas y la utilizacion de titulos y parrafos. Tambien Utilizamos el uso de Github para cargar archivos a la nube y generar commits para entender que hicimos
