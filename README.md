@@ -1,1 +1,14 @@
-Este es un trabajo practico de solo HTML del Proyecto Odion, Utilizando listas ornedanas y no ordenadas, enlaces de navegacion entre mis paginas y la utilizacion de titulos y parrafos. Tambien Utilizamos el uso de Github para cargar archivos a la nube y generar commits para entender que hicimos
+# Odin Recipes
+
+A simple recipe website built with HTML.
+
+This project includes:
+- A homepage with links to recipes
+- Recipe pages with ingredients and preparation steps
+
+Skills practiced:
+- HTML
+- Links
+- Lists
+- Images
+- Git and GitHub
